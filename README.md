@@ -38,7 +38,7 @@ Change `model` to any pulled Ollama model (e.g., `"gemma3:12b"`).
 
 ### Run
 ```bash
-python3 main.py
+python main.py
 ```
 
 ```bash
