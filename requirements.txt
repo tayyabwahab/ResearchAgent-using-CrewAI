@@ -1,0 +1,4 @@
+crewai>=0.51.1
+langchain-ollama>=0.1.0
+litellm>=1.43.0
+pydantic>=2.6 
