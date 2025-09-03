@@ -40,7 +40,7 @@ Change `model` to any pulled Ollama model (e.g., `"gemma3:12b"`).
 ```bash
 python main.py
 ```
-
+#### You can also download and run the docker image using the commands below
 ```bash
 docker pull tayyabwahab/crewai-research-agents
 docker run tayyabwahab/crewai-research-agents
