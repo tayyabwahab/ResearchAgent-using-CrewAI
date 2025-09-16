@@ -1,4 +1,4 @@
-## Technical Writing Assistant Using CrewAI
+## Research Assistant Using CrewAI
 
 A minimal CrewAI project with two agents:
 - Research Analyst: analyzes latest AI/data science trends
